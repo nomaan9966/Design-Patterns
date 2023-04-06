@@ -1,6 +1,6 @@
-package patterns.DecoratorPattern.decorators;
+package patterns.decoratorPattern.decorators;
 
-import patterns.DecoratorPattern.Pizza.BasePizza;
+import patterns.decoratorPattern.Pizza.BasePizza;
 
 public class Mushroom extends ToppingDecorator {
 

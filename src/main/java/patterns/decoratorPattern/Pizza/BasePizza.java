@@ -1,4 +1,4 @@
-package patterns.DecoratorPattern.Pizza;
+package patterns.decoratorPattern.Pizza;
 
 public abstract class BasePizza {
 

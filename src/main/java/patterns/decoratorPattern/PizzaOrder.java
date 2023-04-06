@@ -1,10 +1,10 @@
-package patterns.DecoratorPattern;
+package patterns.decoratorPattern;
 
-import patterns.DecoratorPattern.Pizza.BasePizza;
-import patterns.DecoratorPattern.Pizza.FarmhousePizza;
-import patterns.DecoratorPattern.Pizza.VegDelightPizza;
-import patterns.DecoratorPattern.decorators.ExtraCheese;
-import patterns.DecoratorPattern.decorators.Mushroom;
+import patterns.decoratorPattern.Pizza.BasePizza;
+import patterns.decoratorPattern.Pizza.FarmhousePizza;
+import patterns.decoratorPattern.Pizza.VegDelightPizza;
+import patterns.decoratorPattern.decorators.ExtraCheese;
+import patterns.decoratorPattern.decorators.Mushroom;
 
 public class PizzaOrder {
 
